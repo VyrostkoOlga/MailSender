@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279001</millis>
+  <sequence>0</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeClientLog</method>
+  <thread>1</thread>
+  <message>[Client: ehlo host]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279420</millis>
+  <sequence>1</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 220 smtp3o.mail.yandex.net ESMTP (Want to use Yandex.Mail for your domain? Visit http://pdd.yandex.ru)]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279479</millis>
+  <sequence>2</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250-smtp3o.mail.yandex.net]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279481</millis>
+  <sequence>3</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250-8BITMIME]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279483</millis>
+  <sequence>4</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250-PIPELINING]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279484</millis>
+  <sequence>5</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250-SIZE 42991616]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279485</millis>
+  <sequence>6</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250-AUTH LOGIN PLAIN]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279486</millis>
+  <sequence>7</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250-DSN]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279487</millis>
+  <sequence>8</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250 ENHANCEDSTATUSCODES]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279488</millis>
+  <sequence>9</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeClientLog</method>
+  <thread>1</thread>
+  <message>[Client: auth login]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279553</millis>
+  <sequence>10</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 334 VXNlcm5hbWU6]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279558</millis>
+  <sequence>11</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeClientLog</method>
+  <thread>1</thread>
+  <message>[Client: dnlyb3N0a29vbGdhQHlhbmRleC5ydQ==]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279938</millis>
+  <sequence>12</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 334 UGFzc3dvcmQ6]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:19</date>
+  <millis>1432480279939</millis>
+  <sequence>13</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeClientLog</method>
+  <thread>1</thread>
+  <message>[Client: QWRtaW4wMDA=]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:20</date>
+  <millis>1432480280029</millis>
+  <sequence>14</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 235 2.7.0 Authentication successful.]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:20</date>
+  <millis>1432480280532</millis>
+  <sequence>15</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeClientLog</method>
+  <thread>1</thread>
+  <message>[Client: MAIL FROM: &lt;vyrostkoolga@yandex.ru&gt; SIZE=845464
+RCPT TO: &lt;vyrostkoolga@yandex.ru&gt;
+DATA]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:20</date>
+  <millis>1432480280584</millis>
+  <sequence>16</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250 2.1.0 &lt;vyrostkoolga@yandex.ru&gt; ok]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:20</date>
+  <millis>1432480280658</millis>
+  <sequence>17</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250 2.1.5 &lt;vyrostkoolga@yandex.ru&gt; recipient ok]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:20</date>
+  <millis>1432480280660</millis>
+  <sequence>18</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 354 Enter mail, end with "." on a line by itself]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:22</date>
+  <millis>1432480282304</millis>
+  <sequence>19</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 250 2.0.0 Ok: queued on smtp3o.mail.yandex.net as 1432480282-XxySIpzSEy-BKGmYaVb]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:22</date>
+  <millis>1432480282306</millis>
+  <sequence>20</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeClientLog</method>
+  <thread>1</thread>
+  <message>[Client: QUIT]</message>
+</record>
+<record>
+  <date>2015-05-24T20:11:22</date>
+  <millis>1432480282355</millis>
+  <sequence>21</sequence>
+  <logger>internet.smtp.MailSender</logger>
+  <level>INFO</level>
+  <class>internet.smtp.MailSenderLogger</class>
+  <method>writeServerLog</method>
+  <thread>1</thread>
+  <message>[Server: 221 2.0.0 Closing connection.]</message>
+</record>
+</log>
